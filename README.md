@@ -16,3 +16,13 @@ This assignment involves creating a Python function that calculates the final pr
 ---
 
 ## Example Usage
+week3_assignment.py
+---
+
+## Files
+- `week3_assignment.py` — Contains the Python implementation of the assignment.
+
+---
+
+## Author
+- **Joseph Chege**
